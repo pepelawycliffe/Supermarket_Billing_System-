@@ -1,2 +1,2 @@
 # upermarket_Billing_System-
-upermarket Billing System in c++
+Supermarket Billing System in c++
